@@ -1,6 +1,6 @@
 # Contributing
 
-Bug reports and enhancements to the library are really valued and appreciated!
+Bug reports and enhancements to the library are really valued and appreciated 
 
 # Bug reports
 
@@ -22,6 +22,7 @@ easier.
 
 Pull requests are very welcomed. When doing a pull request please:
 
-* Notice that your code will be compiled and tests will be run automatically by the travis and 
+! Notice that your code will be compiled and tests will be run automatically by the travis and 
 appveyor CI tools. If your code has issues on any of the tested platforms (GNU/Linux, Windows
 and OSX), please fix it or otherwise the PR won't be merged. 
+ 
